@@ -4,11 +4,10 @@
 **Business Analyst** with expertise in **Power BI**, **Excel**, **Python**, and **SQL**. I focus on analyzing data to provide actionable insights and improve business performance.
 
 ## 🚀 About Me
-- 💼 Business Analyst Intern at DD Investment, Ahmedabad.
+- 💼 Done Internship at DD Investment, Ahmedabad as a Business Analyst Intern.
 - 🧑‍🎓 Pursuing **Post Graduate Diploma in Management** (Business Analytics & Marketing) at St. Kabir Institute of Professional Studies, Ahmedabad.
 - 🎓 Graduate in **Computer Applications** from Gujarat Law Society.
-- 🌱 Continuously learning data-driven techniques to enhance decision-making.
-
+  
 ## 💻 Technical Skills
 - **Data Tools**: Power BI, Excel, Python (Jupyter/Colab)
 - **Databases**: MySQL Workbench
@@ -19,7 +18,7 @@
 - Power BI Desktop
 - Microsoft Excel
 - MySQL Workbench
-- Jupyter Notebook, Colab
+- Colab Notebook, Jupyter Notebook 
 
 ## 🌟 Projects
 ### Asset Allocation Analysis of Mutual Funds
@@ -37,4 +36,4 @@ Analyzed sales trends and key metrics through interactive Power BI dashboards.
 ## 📫 Let's Connect!
 - Github: https://github.com/abhikorat
 - Linkedin: https://www.linkedin.com/in/abhi-korat/
-- Email: abhikorat23@skips.in
+- Email: abhi23@skips.in
